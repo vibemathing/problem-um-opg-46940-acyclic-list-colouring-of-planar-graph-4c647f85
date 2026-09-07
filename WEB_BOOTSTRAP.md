@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-um-opg-46940-acyclic-list-colouring-of-planar-graph-4c647f85`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1359661749`
+- Repository node ID: `R_kgDOUQrKtQ`
 - Default branch: `main`
-- Visibility: `private`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
-- Problem lifecycle: `draft`
-- Problem admission: `preview_unadmitted`
-- Harness suite: `harness-source:web-research-full` `1.2.0`
-- Suite manifest SHA-256: `c46170a21d3f528274bb8b18371cfd13812872aaf08421ba6a1d23f9557301e5`
-- Harness snapshot SHA-256: `dec3c540b7b6f582a27518f5623a29be0f3dfdb9c64c068e7d6485d27b57b046`
+- Visibility: `public`
+- Canonical Problem: `problem:um-opg-46940-acyclic-list-colouring-of-planar-graph-4c647f85`
+- ProblemContract SHA-256: `2bdb1121540fa77c3685a84d281adde5470a925e8c7cba253b85c90258ab2274`
+- Problem lifecycle: `active`
+- Problem admission: `canonical_admitted`
+- Harness suite: `harness-source:web-research-full` `1.1.3`
+- Suite manifest SHA-256: `873d54ccacba84d38d491a10fbf185495a7cfa53dc41e91a3ba680f726d54400`
+- Harness snapshot SHA-256: `fd8815d6e765c31f0ee541a66b08ac2c50f5a6b6586d38193dbebd9cede216cc`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
